@@ -1,7 +1,7 @@
 # Big_Data_Project
 
 ## Project Name: StockAnalysis
-### course: Big Data
+### Course: Big Data
 ### Semester : Spring-2020
 ### Section : 02
 ### Project Number: 04
@@ -40,8 +40,35 @@ We are working on the data of the New York stock exchange, Where we can calculat
 
 ## Samanth Gourineni
 * For each company, find the Minimum stock volume.
-* 
+* Input Data: (https://github.com/rohithbharadwaj/Big_Data_Project/blob/master/Data/NYSE_daily_prices_C.csv)
+* For each company, the minimum stock volume is 0.
+* Intermediate pairs:
 
+exchange : NYSE
+
+stock_symbol : CAE
+
+date : 2/12/2010
+
+stock_price_open : 8.42
+
+stock_price_high : 8.76
+
+stock_price_low : 8.39
+
+stock_price_close : 8.71
+
+stock_volume : 40200
+
+stock_price_adj_close : 8.71
+
+*Final Pairs:
+
+stock_symbol : CAE
+
+stock_volume : 40200
+
+* Type of chart : Bar Graph
 
 ## Deepak Sai Krishna Jayanthi 
 * For each company, find the sum stock volume.

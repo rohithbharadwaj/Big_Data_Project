@@ -1,17 +1,19 @@
 # Big_Data_Project
-##Project Name: StockAnalysis
-###Project Number: 04
-###Team Members:
+
+## Project Name: StockAnalysis
+
+### Project Number: 04
+### Team Members:
 1.Rohith Bharadwaj
 2.Samanth Gourineni
 3.Deepak Sai Krishna Jayanthi
 
-Links:
+## Links:
 [Github hub repo link](https://github.com/rohithbharadwaj/Big_Data_Project)
 [Github issue link](https://github.com/rohithbharadwaj/Big_Data_Project/issues/1)
 [Dataset Link](https://www.kaggle.com/cuicuifeng/new-york-stock-exchange-daily-price)
 
-Introduction: 
+## Introduction: 
 
 Data Source:
 Format: .CSV format

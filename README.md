@@ -9,9 +9,9 @@
 1. Deepak Sai Krishna Jayanthi
 
 ## Links:
-[Github hub repo link](https://github.com/rohithbharadwaj/Big_Data_Project)
-[Github issue link](https://github.com/rohithbharadwaj/Big_Data_Project/issues/1)
-[Dataset Link](https://www.kaggle.com/cuicuifeng/new-york-stock-exchange-daily-price)
+1. [Github hub repo link](https://github.com/rohithbharadwaj/Big_Data_Project)
+1. [Github issue link](https://github.com/rohithbharadwaj/Big_Data_Project/issues/1)
+1. [Dataset Link](https://www.kaggle.com/cuicuifeng/new-york-stock-exchange-daily-price)
 
 ## Introduction: 
 We are working on the data of the New York stock exchange, Where we can calculate the Maximum/Minimum/Sum/Count of the opening_price, closing_price and volume of stocks depending on the company(stock_symbol) by filtering with date.

@@ -1,11 +1,14 @@
 # Big_Data_Project
 
-Team Members:
-Rohith Bharadwaj
-Samanth Gourineni
-Deepak Sai Krishna Jayanthi
+##Project Name: StockAnalysis
+###Project Number: 04
 
-Section : 02
+###Team Members:
+1.Rohith Bharadwaj
+2.Samanth Gourineni
+3.Deepak Sai Krishna Jayanthi
+
+
 Group : 03
 
 GIT hub repo link: https://github.com/rohithbharadwaj/Big_Data_Project

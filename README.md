@@ -62,7 +62,7 @@ stock_volume : 40200
 
 stock_price_adj_close : 8.71
 
-*Final Pairs:
+* Final Pairs:
 
 stock_symbol : CAE
 
@@ -94,7 +94,7 @@ stock_volume : 40200
 
 stock_price_adj_close : 8.71
 
-*Final Pairs:
+* Final Pairs:
 
 stock_symbol : CAE
 

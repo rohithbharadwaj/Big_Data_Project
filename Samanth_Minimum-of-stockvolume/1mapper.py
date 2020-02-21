@@ -1,4 +1,4 @@
-input = open("try.txt", "r")
+input = open("dataset.txt", "r")
 output = open("01.txt", "w")
 
 for line in input:

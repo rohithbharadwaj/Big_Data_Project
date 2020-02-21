@@ -7,7 +7,7 @@ count =0
 
 for line in s:
   data = line.strip().split('\t')
-  stock, date = data
+  stock, stockvolume = data
 
   if stock != thisKey:
     if thisKey:
@@ -16,11 +16,11 @@ for line in s:
 
     # start over when changing keys
     thisKey = stock 
-    thisValue = float(date)
+    thisValue = float(stockvolume)
   
   # apply the aggregation function
-  if(float(date) > float(thisValue)):
-      thisValue =float(date)
+  if(float(stockvolume) > float(thisValue)):
+      thisValue =float(stockvolume)
 
 # output the final entry when done
 r.write(thisKey + '\t' + str(thisValue)+'\n')

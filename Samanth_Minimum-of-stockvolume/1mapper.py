@@ -3,7 +3,7 @@ output = open("01.txt", "w")
 
 for line in input:
     datalist = line.strip().split("\t")
-    exchange, stock, stockvolume, data, low, high, adj, date, med = datalist
+    exchange, stock, date, data, low, high, adj, stockvolume, med = datalist
     output.write(stock + "\t" + date + "\n")
 
 input.close()

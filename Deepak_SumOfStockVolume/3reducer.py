@@ -1,39 +1,30 @@
-s = open("sorteddata.txt","r")
-
-r = open("reduced_data.txt", "w")
+s = open("01.txt","r")
+r = open("02.txt", "w")
 
 thisKey = ""
-
 thisValue = 0.0
-
-ctr = 0
+#count =0
 
 for line in s:
-
   data = line.strip().split('\t')
+  stock, stockvolume = data
 
-  item, cost = data
-
-  if item != thisKey:
-
+  if stock != thisKey:
     if thisKey:
       # output the last key value pair result
-
       r.write(thisKey + '\t' + str(thisValue)+'\n')
+
     # start over when changing keys
-
-    thisKey = item
-
-    thisValue = 0.0  
-
+    thisKey = stock 
+    thisValue = 0.0
+  
   # apply the aggregation function
-
-  thisValue += float(cost)
+  #if(float(stockvolume) > float(thisValue)):
+    thisValue += float(stockvolume)
 
 # output the final entry when done
-
 r.write(thisKey + '\t' + str(thisValue)+'\n')
 
 s.close()
-
 r.close()
+

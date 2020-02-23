@@ -142,3 +142,6 @@ stock_volume : 40200
 
 2. Rohith Bharadwaj - Maximum Graph
 ![Rohith Bharadwaj - Maximum Graph](Rohith_maximum-of-stockvolume/maximum_graph.png)
+
+3. Deepak Sai Krishna Jayanthi - Sum Graph
+![Deepak Sai Krishna Jayanthi - Sum Graph](Deepak_SumOfStockVolume/Sum_DJ.png)

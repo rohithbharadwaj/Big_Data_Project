@@ -139,3 +139,6 @@ stock_volume : 40200
 # Images:
 1. Samanth Gourineni - Minimum Graph
 ![Samanth Gourineni- Minimum Graph](Samanth_Minimum-of-stockvolume/Minimum_Graph.png)
+
+2. Rohith Bharadwaj - Maximum Graph
+![Rohith Bharadwaj - Maximum Graph](Rohith_maximum-of-stockvolume/maximum_graph.png)

@@ -134,3 +134,8 @@ stock_volume : 40200
 * Samanth Gourineni:
 Mapper: python .\1mapper.py
 Reducer: python .\3reducer.py
+
+
+# Images:
+
+![ Samanth Gourineni- Minimum Graph](https://https://github.com/rohithbharadwaj/Big_Data_Project/blob/master/Samanth_Minimum-of-stockvolume/Minimum_Graph.png)

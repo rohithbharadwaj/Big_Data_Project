@@ -128,3 +128,9 @@ stock_symbol : CAE
 stock_volume : 40200
 
 * Type of chart : Bar Graph
+
+
+# Commands:
+* Samanth Gourineni:
+Mapper: python .\1mapper.py
+Reducer: python .\3reducer.py
